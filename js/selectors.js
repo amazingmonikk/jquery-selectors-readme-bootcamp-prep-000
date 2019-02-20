@@ -22,7 +22,7 @@ function lastImageSelector() {
 
 
 function ninjaBabySelector() {
-
+$('#')
 }
 
 
