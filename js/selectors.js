@@ -1,6 +1,6 @@
 // declare your functions here...
 function paragraphSelector() {
-  p = []
+  var i = 0;
    $('p');
    return p;
 }
