@@ -1,6 +1,6 @@
 // declare your functions here...
 $(document).ready(function() {
-  var count = 0;
+  var count =[];
             $("p")
          });
 
