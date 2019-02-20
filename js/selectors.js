@@ -1,8 +1,10 @@
 // declare your functions here...
 $(document).ready(function() {
-  var count =[];
-            $("p");
-         });
+  
+  if ( $( "p" ).length ) {
+    return 'p';
+ }
+});
 
 
 
