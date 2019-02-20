@@ -21,7 +21,7 @@ function ninjaBabySelector() {
 
 
 function divSelector() {
-  
+  $('img:last')
 }
 
 
