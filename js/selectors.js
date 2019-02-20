@@ -6,8 +6,6 @@ function paragraphSelector() {
   
 
 
-
-
 function lastImageSelector() {
   var element = $('img:last');
   return element;
@@ -15,9 +13,8 @@ function lastImageSelector() {
 
 
 
-
 function ninjaBabySelector() {
-  var element = $('#baby-ninja')
+  var element = $('#baby-ninja');
   return element;
 }
 
@@ -25,7 +22,8 @@ function ninjaBabySelector() {
 
 
 function divSelector() {
-  $('.pics ')
+  var element = $('.pics ');
+  return element;
 }
 
 
