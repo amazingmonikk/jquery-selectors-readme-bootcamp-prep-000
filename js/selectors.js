@@ -8,11 +8,11 @@ $(document).ready(function() {
 
 
 
-function paragraphSelector() {
-  var p = 1;
-   $('p');
-   return p;
-}
+//function paragraphSelector() {
+  //var p = 1;
+   //$('p');
+   //return p;
+//}
 
 
 
