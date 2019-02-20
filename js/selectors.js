@@ -1,10 +1,9 @@
 // declare your functions here...
 function paragraphSelector() {
-  var p = $( "p" ).length ) {
+  var p = $( "p" )
     return 'p';
- 
-   } 
-  }
+ } 
+  
 
 
 
