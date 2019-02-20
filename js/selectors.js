@@ -1,6 +1,6 @@
 // declare your functions here...
 $(document).ready(function() {
-            $("p").css("background-color", "yellow");
+            $("p")
          });
 
 
