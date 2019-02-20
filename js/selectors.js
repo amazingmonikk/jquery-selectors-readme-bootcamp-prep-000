@@ -1,4 +1,10 @@
 // declare your functions here...
+$(document).ready(function() {
+            $("p").css("background-color", "yellow");
+         });
+
+
+
 function paragraphSelector() {
   var p = 1;
    $('p');
