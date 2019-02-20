@@ -10,6 +10,7 @@ function paragraphSelector() {
 
 function lastImageSelector() {
   var element = $('img:last');
+  return element;
 }
 
 
@@ -29,5 +30,5 @@ function divSelector() {
 
 
 function firstListItem() {
-  $('ul #:first-child')
+  $('ul #pic-list:first-child')
 }
