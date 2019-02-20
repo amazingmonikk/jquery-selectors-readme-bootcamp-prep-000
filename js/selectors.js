@@ -4,9 +4,13 @@ function aragraphSelector() {
 }
 
 
+
+
 function lastImageSelector() {
   
 }
+
+
 
 
 function ninjaBabySelector() {
@@ -14,3 +18,12 @@ function ninjaBabySelector() {
 }
 
 
+
+
+function divSelector() {
+  
+}
+
+
+
+function 
