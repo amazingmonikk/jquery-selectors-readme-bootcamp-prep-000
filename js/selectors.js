@@ -4,4 +4,8 @@ function aragraphSelector() {
 }
 
 
-function 
+function lastImageSelector() {
+  
+}
+
+
