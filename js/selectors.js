@@ -14,7 +14,7 @@ function lastImageSelector() {
 
 
 function ninjaBabySelector() {
-  
+  $('p');
 }
 
 
