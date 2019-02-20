@@ -23,7 +23,7 @@ function ninjaBabySelector() {
 
 
 function divSelector() {
-
+  $('.pics ')
 }
 
 
