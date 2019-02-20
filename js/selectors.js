@@ -1,4 +1,11 @@
 // declare your functions here...
+$(document).ready(function() {
+     $('p');
+});
+
+
+
+
 function paragraphSelector() {
   p = []
    $('p');
