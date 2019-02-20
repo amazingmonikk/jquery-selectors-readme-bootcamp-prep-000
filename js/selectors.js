@@ -1,9 +1,6 @@
 // declare your functions here...
 function paragraphSelector() {
-  var count = 0;
-  const p = paragraph;
-  
-  if ( $( "p" ).length ) {
+  var p = $( "p" ).length ) {
     return 'p';
  
    } 
