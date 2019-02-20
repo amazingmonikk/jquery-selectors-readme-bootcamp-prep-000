@@ -1,27 +1,27 @@
 // declare your functions here...
-function aragraphSelector() {
-  
+function paragraphSelector() {
+   $('p');
 }
 
 
 
 
 function lastImageSelector() {
-  
+    $('img:last');
 }
 
 
 
 
 function ninjaBabySelector() {
-  $('p');
+
 }
 
 
 
 
 function divSelector() {
-  $('img:last')
+
 }
 
 
