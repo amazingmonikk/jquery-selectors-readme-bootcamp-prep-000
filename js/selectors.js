@@ -1,9 +1,4 @@
 // declare your functions here...
-$(document).ready(function() {
-  $("#text").append("this is so freaking awesome!!!.");
-  });
-
-
 function paragraphSelector() {
   var count = 0;
   const p = paragraph;
