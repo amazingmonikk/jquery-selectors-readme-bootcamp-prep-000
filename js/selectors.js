@@ -7,22 +7,16 @@ function paragraphSelector() {
 
 
 
-function paragraphSelector() {
-  
-}
-
-
-
 
 function lastImageSelector() {
-    $('img:last');
+  $('img:last');
 }
 
 
 
 
 function ninjaBabySelector() {
-$('#')
+  $('#baby-ninja')
 }
 
 
