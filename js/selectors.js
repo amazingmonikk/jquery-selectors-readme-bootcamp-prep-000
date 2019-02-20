@@ -1,18 +1,18 @@
 // declare your functions here...
-$(document).ready(function() {
+function paragraphSelector() {
+  
   
   if ( $( "p" ).length ) {
     return 'p';
- }
-});
+ 
+   } 
+  }
 
 
 
-//function paragraphSelector() {
-  //var p = 1;
-   //$('p');
-   //return p;
-//}
+function paragraphSelector() {
+  
+}
 
 
 
