@@ -29,6 +29,6 @@ function divSelector() {
 
 
 function firstListItem() {
-  var element = $('li:first-child');
+  var element = $('ul li:first-child');
   return element;
 }
