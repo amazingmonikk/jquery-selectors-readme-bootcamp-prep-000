@@ -1,6 +1,6 @@
 // declare your functions here...
 function paragraphSelector() {
-  var element = $("p");
+  var element = $('p');
     return element;
  } 
   
@@ -22,7 +22,7 @@ function ninjaBabySelector() {
 
 
 function divSelector() {
-  var element = $('.pics ');
+  var element = $('.pics');
   return element;
 }
 
