@@ -20,7 +20,6 @@ function ninjaBabySelector() {
 
 
 
-
 function divSelector() {
   var element = $('.pics');
   return element;
